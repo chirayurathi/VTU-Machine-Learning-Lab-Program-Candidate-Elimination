@@ -1,5 +1,4 @@
-japan,honda,blue,1980,economy,positive
-japan,toyota,green,1970,sports,negitive
-japan,toyota,blue,1990,economy,positive
-usa,chrysler,red,1980,economy,negitive
-japan,honda,white,1980,economy,positive
+red,ache,sore,pain,affected
+red,ache,soft,pain,affected
+itchy,ache,sore,no pain,not affected
+red,no ache,sore,pain,affected
